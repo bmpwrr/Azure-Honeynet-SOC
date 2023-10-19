@@ -28,31 +28,31 @@ Technologies, Azure Components, and Regulations Employed
 - NIST SP 800-61 Revision 2 for Incident Handling Guidance
 
 Architecture Before Hardening
-- 
-![before_harden](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/eed9e200-2ea2-4f6f-bced-c5e7d410e4e3)
+-
+- ![before_harden](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/477625aa-26c7-459c-b924-2afebed05860)
 
 Architecture After Hardening
 - 
-![after_harden](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/69c516ad-686a-472e-b85e-540748a48c5f)
+![after_harden](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/0770c820-17fb-4e86-a419-2ca05ccfb76c)
 
 Attack Maps Before Hardening
 - 
 This attack map shows the traffic allowed by a Network Security Group with all traffic allowed inbound
-![nsg](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/81a1ae00-4814-4a0d-b122-b2fa9cded590)
+![nsg](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/ba820be5-74a6-4b01-8594-a9d29e23d74e)
 
 This attack map shows all the attempts that the threat actors tries to access the Linux virtual machine
-![linux](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/c20fb8c0-79e9-4a6b-9084-6a2fe400e08c)
+![linux](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/7633853d-2163-4ee8-affd-7209ad92f733)
 
 This attach map shows all the attempts that the threat actors tries to get into the Windows Virtual Machine
-![mssql](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/8cbef024-55d7-40af-8133-9208d0c885bc)
+![mssql](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/17dc293f-c340-4201-a762-a20af18f6e11)
 
 Metrics Before Hardening
 -
-![metric_before](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/72661f42-0917-480b-895f-ddc407f5cc21)
+![metric_before](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/9cc3613f-6ef7-4ded-a268-4fc95125998e)
 
 Metric After Hardening
 -
-![metric_after](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/95b15faf-1407-496e-a37b-39441aa59b4e)
+![metric_after](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/2463ebcc-4af0-43f1-88b2-45862f9ed88a)
 
 Conclusion
 - 
