@@ -29,7 +29,7 @@ Technologies, Azure Components, and Regulations Employed
 
 Architecture Before Hardening
 -
-- ![before_harden](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/477625aa-26c7-459c-b924-2afebed05860)
+![before_harden](https://github.com/bmpwrr/Azure-Honeynet-SOC/assets/144153997/477625aa-26c7-459c-b924-2afebed05860)
 
 Architecture After Hardening
 - 
